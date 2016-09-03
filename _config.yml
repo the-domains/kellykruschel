@@ -29,5 +29,6 @@ navigation:
     url: 'http://www.facebook.com'
     type: external
 favicon: null
+title: Testing This
 description: 'So far '
 purpose: []
