@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Kelly Kruschel
+name: jghgjkg
 cta:
   domain: null
   bucket: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: Facebook
     url: 'http://www.facebook.com'
+    type: external
+  - name: Google
+    url: 'http://www.google.com'
     type: external
 favicon: null
 title: ereh si leoJ
