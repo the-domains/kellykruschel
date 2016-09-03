@@ -31,6 +31,9 @@ navigation:
   - name: Google
     url: 'http://www.google.com'
     type: external
+  - name: Your Mama
+    url: 'http://www.yourmama.com'
+    type: external
 favicon: null
 title: ereh si leoJ
 description: hahahahah
