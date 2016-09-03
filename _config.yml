@@ -1,19 +1,4 @@
-name: Kelly Kruschel
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.82137
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,23 @@ color:
   lightness: 0.0165019144769758
   saturation: 0.4750635679811239
   rhythmicContrast: 0.6275969527196139
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Kelly Kruschel
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Facebook
+    url: 'http://www.facebook.com'
+    type: external
+favicon: null
 purpose: []
